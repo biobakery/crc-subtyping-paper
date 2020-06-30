@@ -1,0 +1,19 @@
+"Dataset"	"ID"	"Platforms"	"samplecount"	"latestage.perc"	"stage.sys"	"metastasis"	"highgrade.perc"
+"GSE13294_eset"	"Jorissen and Sieber 2008b"	"GSE13294"	"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array"	"155/0"	NA	"-"	"No"	NA
+"GSE14095_eset"	"Watanabe, Hashimoto 2008"	"GSE14095"	"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array"	"189/0"	NA	"-"	"No"	NA
+"GSE14333_eset"	"Jorissen and Sieber 2008"	"GSE14333"	"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array"	"290/0"	77.5510204081633	"TNM/Duke"	"Yes"	NA
+"GSE17536_eset"	"Smith JJ, Beauchamp RD 2009a"	"GSE17536"	"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array"	"177/0"	80	"TNM/Duke"	"Yes"	15.2542372881356
+"GSE21815_eset"	"Mori M, Mimori K, Yokobori T 2010"	"GSE21815"	"Agilent-014850 Whole Human Genome Microarray 4x44K G4112F (Probe Name version)"	"131/9"	59.5419847328244	"TNM/Duke"	"Yes"	1.51515151515152
+"GSE26682.GPL570_eset"	"Vilar E, Morgan MA 2011a"	"GSE26682.GPL570"	"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array"	"176/0"	NA	"-"	"No"	NA
+"GSE26682.GPL96_eset"	"Vilar E, Morgan MA 2011b"	"GSE26682.GPL96"	"[HG-U133A] Affymetrix Human Genome U133A Array"	"155/0"	NA	"-"	"No"	NA
+"NHS.HPFS_eset"	"NHS-HPFS"	"NHS.HPFS"	"Illumina DASL HumanRef-8 v3"	"718/0"	13.8297872340426	"TNM"	"No"	9.74930362116992
+"GSE12225.GPL3676_eset"	"Lips,  Morreau 2008"	"GSE12225.GPL3676"	"NKI-CMF Homo sapiens 35k oligo array"	"42/0"	28.5714285714286	"TNM"	"Yes"	NA
+"GSE12945_eset"	"Staub, Rosenthal 2009"	"GSE12945"	"[HG-U133A] Affymetrix Human Genome U133A Array"	"62/0"	41.9354838709677	"TNM"	"Yes"	50
+"GSE13067_eset"	"Jorissen and Sieber 2008a"	"GSE13067"	"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array"	"33/0"	NA	"-"	"No"	NA
+"GSE17538.GPL570_eset"	"Smith JJ, Beauchamp RD 2009b"	"GSE17538.GPL570"	"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array"	"63/0"	88.0952380952381	"TNM/Duke"	"Yes"	9.09090909090909
+"GSE2109_eset"	"expO, IGC 2005"	"GSE2109"	"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array"	"427/0"	51.6034985422741	"TNM/Duke"	"Yes"	21.7391304347826
+"GSE21510_eset"	"Tsukamoto, Sugihara 2010"	"GSE21510"	"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array"	"123/25"	79.5698924731183	"TNM/Duke"	"Yes"	NA
+"GSE33113_eset"	"Medema JP, Tanis PJ 2011"	"GSE33113"	"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array"	"90/6"	NA	"TNM/Duke"	"Yes"	NA
+"GSE39582_eset"	"Marisa, Boige 2012"	"GSE39582"	"[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array"	"566/0"	87.7483443708609	"TNM/Duke"	"Yes"	NA
+"TCGA.COAD_eset"	"TCGAa"	"TCGA.COAD"	"Agilent 244K Custom Gene Expression G4502A-07-3"	"122/4"	42.4	"TNM"	"Yes"	NA
+"TCGA.RNASeqV2_eset"	"TCGAb"	"TCGA.RNASeqV2"	"[RNASeqV2] Illumina HiSeq RNA sequencing"	"181/14"	53.0927835051546	"TNM"	"Yes"	NA

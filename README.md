@@ -1,0 +1,4 @@
+Analysis repository for datasets included in the [CRC subtyping paper](https://www.ncbi.nlm.nih.gov/pubmed/30253799).
+
+* `src/`: analysis scripts, ordered in sequence by the tasks performed. The `manuscript/` and `response_letter/` subdirectories contain scripts used to generate display items for the manuscript and response letters.
+* `data/`: most importantly, the [*ExpressionSets*](https://www.bioconductor.org/packages/devel/bioc/vignettes/Biobase/inst/doc/ExpressionSetIntroduction.pdf) for each dataset (gene expression + metadata) used in the analyses, as well as the necessary data for analyzing the [CMS](https://www.ncbi.nlm.nih.gov/pubmed/26457759) and [CRIS](https://www.ncbi.nlm.nih.gov/pubmed/28561063) subtypes.

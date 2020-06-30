@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/results/*
+/data/eSets/new/*
+/manuscript/*
+/response_letter/*
+crc-subtyping-paper.Rproj
+.DS_Store
+
